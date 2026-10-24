@@ -1,0 +1,4 @@
+SONG|Song A|180|Artist A|Unknown Album
+SONG|Song C|150|Artist C|Unknown Album
+PODCAST|Podcast A|1200|Podcaster A|1
+PODCAST|Podcast B|1500|Podcaster B|2
